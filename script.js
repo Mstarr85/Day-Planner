@@ -26,19 +26,27 @@ $.each(workHours, function (_index, value) {
     var scheduledHour = parseInt($(this).attr('#id'))
    if ( scheduledHour < currentHour ) {
       console.log($(this));
+   }}) 
       
-      
-      
+  
+ 
    
+
+
+
+
+
+
+
+
+//         $("#display").empty();
       
-        $("#display").empty();
+//       $(this).removeClass('gray');
+//       $(this).addClass('gray');
+//       $(this).addClass('gray')
       
-      $(this).removeClass('gray');
-      $(this).addClass('gray');
-      $(this).addClass('gray')
-      
-   }
- })
+//    }
+//  })
 
 
 
