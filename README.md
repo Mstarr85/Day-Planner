@@ -16,13 +16,14 @@ App that makes it easier to plan your busy day
                    
  * Click on Github Deployed Link below
 
-## Built With 
-- Html
-- Css 
-- Java Script 
-- Jquery
-bootstrap
-font awesome
+## Technologies Used
+ 
+ * Html
+ * Css 
+ * Java Script 
+ * Jquery
+ * Bootstrap
+ * Font Awesome
 
 # Author
 - Matthew Starr
