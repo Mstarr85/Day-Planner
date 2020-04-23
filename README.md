@@ -37,20 +37,20 @@ App that makes it easier to plan your busy day
  * Bootstrap
  * Font Awesome
 
-# Author
+## Author
 
 Matthew Starr
 
-# Github Repo Link
+## Github Repo Link
 
 https://github.com/Mstarr85/Day-Planner
 
-# Github Deployed Link
+## Github Deployed Link
 
 https://mstarr85.github.io/Day-Planner/
 
 
-# License
+## License
 
 This project is licensed under the MIT License Copyright (c) 2010-2020 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
