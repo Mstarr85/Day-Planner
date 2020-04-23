@@ -15,6 +15,18 @@ App that makes it easier to plan your busy day
                    or
                    
  * Click on Github Deployed Link below
+ 
+## How It Works
+
+ * This App shows the current Day 
+ 
+ * It is broken down from 9AM-5PM sections 
+ 
+ * In the grey shaded areas the user can write in memos to help them remember what needs to get done during the work day
+ 
+ * Once the user types in the memo to the right of each slot is a blue disk button that they can click on that will save the      memo
+ 
+ * The memo won't be erased by refreshing the page (Saved to local storage)
 
 ## Technologies Used
  
@@ -60,5 +72,5 @@ THE SOFTWARE.
 
 
 
- You can save events in local storage so that if you refresh the page it doesn't go away. Time blocks are color coded to quickly let you know whether the time block has passed, is in the present or future.
+ 
     
