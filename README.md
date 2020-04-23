@@ -1,17 +1,28 @@
 ![Screen Shot 2020-03-21 at 11 37 59 PM (2)](https://user-images.githubusercontent.com/53281244/77241787-9c1f8300-6bcd-11ea-9f43-d1d016517bb2.png)
+
 # Day-Planner
-- App that makes it easier to plan your busy day. You can save events in local storage so that if you refresh the page it doesn't go away. Time blocks are color coded to quickly let you know whether the time block has passed, is in the present or future.
 
-# Getting Started 
-- Clone repository to get all necessary files to your local machine
-- Open index.html file in default browser 
+## Description 
+ 
+App that makes it easier to plan your busy day
 
+## Installation Instructions  
 
-# Built With 
+ * Clone Repo to your local machine
+ 
+ * Open index.html file with default browser 
+ 
+                   or
+                   
+ * Click on Github Deployed Link below
+
+## Built With 
 - Html
 - Css 
 - Java Script 
 - Jquery
+bootstrap
+font awesome
 
 # Author
 - Matthew Starr
@@ -48,5 +59,5 @@ THE SOFTWARE.
 
 
 
-
+ You can save events in local storage so that if you refresh the page it doesn't go away. Time blocks are color coded to quickly let you know whether the time block has passed, is in the present or future.
     
